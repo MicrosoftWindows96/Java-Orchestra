@@ -1,0 +1,10 @@
+Name: Never gonna give you up
+Tempo: Allegro
+Length: 10
+Piano, soft, {A3, B3, D4, B3, F#4, none, F#4, none, E4, none}
+Piano, loud, {A3, B3, D4, B3, F#4, none, F#4, none, E4, none}
+Violin, soft, {A3, B3, D4, B3, F#4, none, F#4, none, E4, none}
+Violin, loud, {A3, B3, D4, B3, F#4, none, F#4, none, E4, none}
+Violin, loud, {A3, B3, D4, B3, F#4, none, F#4, none, E4, none}
+Cello, soft, {A3, B3, D4, B3, F#4, none, F#4, none, E4, none}
+Cello, loud, {A3, B3, D4, B3, F#4, none, F#4, none, E4, none}
